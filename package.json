@@ -1,7 +1,7 @@
 {
   "name": "elementor01",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.0.0",
   "description": "Power your vision with Elementor to build, manage and host stunning websites! We’ve got you covered from A-to-Z with the #1 website platform for WordPress.",
   "keywords": [
     "elementor",
@@ -10,7 +10,7 @@
     "สอน wordpress",
     "สอนทำเว็บ"
   ],
-  "repository": "https://github.com/manesz/elementor01",
+  "repository": "https://github.com/manesz/iammick.dev-elementor",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
